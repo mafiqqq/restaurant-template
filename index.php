@@ -10,7 +10,7 @@
     <p>Here at Franklin we serve the best Malaysian food that have the aroma of traditional spices
     all the way from Malaysia</p>
 
-    <p>Oh and not to forget we do have reservation slot!</p>
+    <p>meowwwww!</p>
 
 <div class="hr"><hr /></div>
    

@@ -6,7 +6,7 @@
 <div id="philosophy">
 <div class="hr"><hr /></div>
 
-    <h1>Franklin's Philosophy of Fine Dining</h1>
+    <h1>SAYA LAPAR</h1>
     <p>Here at Franklin we serve the best Malaysian food that have the aroma of traditional spices
     all the way from Malaysia</p>
 
